@@ -130,7 +130,7 @@ ul {
 
 @media (min-width: 576px) {
   #card {
-    width: 550px;
+    width: 530px;
     height: 400px;
   }
   #bottom-left-section, #bottom-right-section {
